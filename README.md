@@ -1,7 +1,9 @@
-##Python Projects
+### Python Projects
 
 This repository contains my Python programming projects and practice.
+
 **Skills used:**
+
 - Variables
 - `input()`
 - `if`, `elif`, `else`
